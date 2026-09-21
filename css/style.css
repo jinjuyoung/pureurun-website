@@ -1397,18 +1397,18 @@ section {
 
   .service-image {
     height: auto;
-    aspect-ratio: 4 / 5;
+    aspect-ratio: 5 / 6;
   }
 
 
   /* MANAGEMENT */
 
   .management-inner {
-    padding: 110px 20px;
+    padding: 90px 20px;
   }
 
   .management-heading {
-    margin-bottom: 70px;
+    margin-bottom: 52px;
   }
 
   .management-heading h2 {
@@ -1421,12 +1421,12 @@ section {
 
   .management-step {
     min-height: auto;
-    padding: 35px 0;
+    padding: 28px 0;
     border-right: 0;
   }
 
   .management-step span {
-    margin-bottom: 30px;
+    margin-bottom: 22px;
   }
 
 
@@ -1434,12 +1434,12 @@ section {
 
   .proof-grid {
     grid-template-columns: 1fr;
-    gap: 65px;
+    gap: 52px;
   }
 
   .proof-visual {
     height: auto;
-    aspect-ratio: 4 / 5;
+    aspect-ratio: 5 / 6;
   }
 
 
@@ -1482,7 +1482,7 @@ section {
 
   .why-layout {
     grid-template-columns: 1fr;
-    gap: 55px;
+    gap: 42px;
   }
 
   .why-heading {
@@ -1491,7 +1491,7 @@ section {
 
   .why-item {
     grid-template-columns: 50px 1fr;
-    padding: 32px 0;
+    padding: 25px 0;
   }
 
 
@@ -1523,7 +1523,8 @@ section {
   }
 
   .about-copy h2 {
-    font-size: clamp(40px, 11vw, 52px);
+    font-size: clamp(36px, 9.7vw, 46px);
+    line-height: 1.14;
   }
 
   .about-description {
