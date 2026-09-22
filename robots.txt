@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://pururun.kr/sitemap.xml
