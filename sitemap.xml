@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://pururun.kr/</loc>
-  </url>
-  <url>
-    <loc>https://pururun.kr/regular-cleaning.html</loc>
-  </url>
+  <url><loc>https://pururun.kr/</loc></url>
+  <url><loc>https://pururun.kr/regular-cleaning.html</loc></url>
+  <url><loc>https://pururun.kr/aircon-cleaning.html</loc></url>
+  <url><loc>https://pururun.kr/window-cleaning.html</loc></url>
 </urlset>
